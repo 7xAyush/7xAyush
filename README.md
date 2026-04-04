@@ -5,7 +5,7 @@ I'm <b>Ayush Rai</b> — an AI-focused developer building scalable systems and r
 </p>
 
 <p align="center">
-I work on <b>AI systems, industrial optimization, and full-stack applications</b> with a strong focus on performance, reliability, and real-world impact.
+I work on <b>AI systems, industrial energy optimization, and full-stack applications</b> with a strong focus on performance, reliability, and real-world impact.
 </p>
 
 ---
