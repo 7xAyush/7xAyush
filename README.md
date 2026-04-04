@@ -2,69 +2,72 @@
 <h3 align="center">AI Engineer | Full Stack Developer</h3>
 
 <p align="center">
-Building real-world AI systems, scalable apps, and solving complex problems.
+Building intelligent systems, scalable apps, and real-world AI solutions.
 </p>
 
 ---
 
-## 🚀 What I’m Doing
+## ⚡ About
 
-- ⚡ Building **EnerGuard AI** (industrial energy optimization system)
-- 🧠 Working on **AI for real-world uncertainty (OOD data)**
-- 📱 Frontend Lead @ Event Bunny (250+ users)
-- 💻 Solved **200+ DSA problems**
+- 🚀 Building **EnerGuard AI** (Industrial Energy Optimization System)  
+- 🧠 Exploring **AI for real-world uncertainty (OOD, non-IID)**  
+- 📱 Frontend Lead @ Event Bunny (250+ users)  
+- 💻 Solved **200+ DSA problems**  
 
 ---
 
 ## 🧩 Projects
 
-**⚡ EnerGuard AI**
-- AI-based energy dispatch system  
-- Forecasting + optimization + benchmarking  
+**⚡ EnerGuard AI**  
+AI-based industrial energy dispatch system  
+Forecasting • Optimization • Benchmarking  
 
-**🤟 Sign Language Detection**
-- OpenCV + MediaPipe + ML  
-- Real-time gesture recognition  
+**🌍 Urban Heat Island Research**  
+ResNet18 + MLP multimodal model  
+Accuracy: **89%** | F1: **0.88**  
 
-**🌍 Urban Heat Island (Research)**
-- ResNet18 + MLP model  
-- 89% Accuracy | 0.88 F1  
-
-**📱 Event Bunny**
-- React Native app with real users  
-- Built scalable UI system  
+**📱 Event Bunny**  
+React Native app with real users  
+Scalable UI + production workflows  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-**Languages:** C, C++, Java, Python, JavaScript  
-**Frontend:** React Native, HTML, CSS  
-**Backend:** Node.js, Express  
-**AI/ML:** Scikit-learn, OpenCV, MediaPipe  
-**DB:** MySQL, MongoDB  
-**Tools:** Git, Postman, Figma  
+**Languages**  
+C • C++ • Java • Python • JavaScript  
+
+**Development**  
+React Native • Node.js • Express  
+
+**AI / ML**  
+Scikit-learn • OpenCV • MediaPipe  
+
+**Database**  
+MySQL • MongoDB  
+
+**Tools**  
+Git • Postman • Figma  
 
 ---
 
-## 📈 Coding Profiles
-
-- LeetCode: https://leetcode.com/u/pzpu7xv77u/  
-- HackerRank: https://www.hackerrank.com/@ayush_kumarrai71  
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/ayushkumanm1w  
-
----
-
-## 📊 GitHub Analytics
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7xayush&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7xayush&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=7xayush&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7xayush&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xayush&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔗 Connect
 
-- LinkedIn: https://www.linkedin.com/in/ayush-rai-1915b7330  
-- Email: ayush.kumarrai712@gmail.com  
+<p align="center">
+<a href="https://www.linkedin.com/in/ayush-rai-1915b7330">LinkedIn</a> • 
+<a href="mailto:ayush.kumarrai712@gmail.com">Email</a> • 
+<a href="https://leetcode.com/u/pzpu7xv77u/">LeetCode</a>
+</p>
