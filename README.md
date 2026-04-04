@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
-<h3 align="center">🚀 Ayush Rai | Computer Science Student | Passionate about DSA, APP Development, Machine Learning, and Open Source</h3>
+<h3 align="center">🚀 Ayush Rai | Computer Science Student | 200+ DSA, APP Development, Machine Learning, and Open Source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7xayush&label=Profile%20views&color=0e75b6&style=flat" alt="7xayush" /> </p>
 
-- 🔭 I’m currently working on **AI for Judiciary**
+- 🔭 I’m currently working on **AI on EnerGuard AI**
 
-- 💬 Ask me about **React,MongoDB,Java,JS,C,C++**
+- 💬 Ask me about **React Native,MongoDB,Java,JS, iOS, Swift**
 
 - 📫 How to reach me **ayush.kumarrai712@gmail.com**
 
